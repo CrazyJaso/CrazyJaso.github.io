@@ -90,28 +90,7 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/c2/5680-c20bc1e10bde526207cc5eeb568c552bb11e8223.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1830-dirk-matthies/"
-        }, 
-        {
-            name": "Manuel Herrlich",
-            "rank": "Leitung (Beschwerdeabteilung)",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/75/5741-7505bbfbacec7627395e1ec51d5d1f9c84597e0c.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1228-g0xar/"
-        }, 
-        {
-            name": "Mika Varox",
-            "rank": "Leitung (Personalabteilung)",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/06/5808-066b6763e7e7a9dfed853963aaa87c2da2bfda4d.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
-        }, 
-        {
-            name": "Nils Lombax",
-            "rank": "OrgLRD (Ausbildungsabteilung)",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/68/5767-6856ebdd65d7ac999e470f63a90f370a8cc278fd.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1589-gpx-nilo2213/"
-        }, 
+        },
         {
             name": "Garfield Freitag",
             "rank": "LNA",
