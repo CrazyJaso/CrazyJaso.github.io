@@ -1,0 +1,60 @@
+{
+    "members": [
+        {
+            "name": "Mas Tyranus",
+            "rank": "Leitung (Personalabteilung)",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/03/5771-03221e517235a7da504fe0b20bdc6fc7774d3c60.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1142-rimidal/"
+        },
+        {
+            "name": "Nils Lombax",
+            "rank": "Organisatorische Leitung Rettungsdienst",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/68/5767-6856ebdd65d7ac999e470f63a90f370a8cc278fd.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1589-gpx-nilo2213/"
+        },
+        {
+            "name": "Dr. Bernd Deutschmann",
+            "rank": "Leitender Notarzt",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/18/4289-18ccb27090df0c8483350bea46d664a955cf490c.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1253-jannik/"
+        },
+        {
+            "name": "Veronica Thompson",
+            "rank": "Notarzt",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a8/5769-a8f5b4eec0c22b680362fa3b5a80818ae3f68afc.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1623-mindofveronica/"
+        },
+        {
+            "name": "Garfield Freitag",
+            "rank": "Notarzt",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/46/5560-46aa663aff153ebfe8c23619adbde0ee404b80c8.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1381-garfield-freitag/"
+        },     
+        {
+            "name": "Alex Baum",
+            "rank": "Notfallsanitäter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ff/5260-ffe147c613c680c63be605bc2400ad796ac2cdff.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1464-luca11013-gpx/"
+        },
+        {
+            "name": "Max Blaubeere",
+            "rank": "Notfallsanitäter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/24/5203-24846a4e98c427f11cb982f97cb5835949790755.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1604-resy-max-blaubeere/"
+        },
+        {
+            "name": "Dr. Marvin Dienstag",
+            "rank": "Notfallsanitäter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/5663-7c1e9cc45050602362b33e6ea219814538bd1890.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1577-putzl4pp3n2015/"
+        }
+    ]
+}
