@@ -1,60 +1,60 @@
 {
     "members": [
         {
-            "name": "Mas Hurensohn",
+            "name": "Manuel Herrlich",
+            "rank": "Leitung (Beschwerdeabteilung)",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/75/5741-7505bbfbacec7627395e1ec51d5d1f9c84597e0c.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1228-g0xar/"
+        },
+        {
+            "name": "Mika Varox",
             "rank": "Leitung (Personalabteilung)",
             "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/03/5771-03221e517235a7da504fe0b20bdc6fc7774d3c60.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1142-rimidal/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/06/5808-066b6763e7e7a9dfed853963aaa87c2da2bfda4d.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1634-mika/"
         },
         {
             "name": "Nils Lombax",
-            "rank": "Organisatorische Leitung Rettungsdienst",
+            "rank": "OrgLRD (Ausbildungsabteilung)",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/68/5767-6856ebdd65d7ac999e470f63a90f370a8cc278fd.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1589-gpx-nilo2213/"
         },
         {
-            "name": "Dr. Bernd Deutschmann",
-            "rank": "Leitender Notarzt",
+            "name": "Jeremy Varox",
+            "rank": "ELRD (Personalabteilung)",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/18/4289-18ccb27090df0c8483350bea46d664a955cf490c.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1253-jannik/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/24/5661-24cfa7f62bf4d8cc7e59e974b89a6473a27300e5.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1592-jeremy-herrlich/"
         },
         {
-            "name": "Veronica Thompson",
-            "rank": "Notarzt",
+            "name": "Bernhardt Kruse",
+            "rank": "ELRD (Personalabteilung)",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/a8/5769-a8f5b4eec0c22b680362fa3b5a80818ae3f68afc.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1623-mindofveronica/"
-        },
-        {
-            "name": "Garfield Freitag",
-            "rank": "Notarzt",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/46/5560-46aa663aff153ebfe8c23619adbde0ee404b80c8.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1381-garfield-freitag/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/98/5705-98f5ec0dc1b06d9b00755b78950badbf2541d2de.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1839-bernhardt-kruse/"
         },     
         {
-            "name": "Alex Baum",
-            "rank": "Notfallsanitäter",
+            "name": "Jahseh Malocher",
+            "rank": "Notarzt",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/ff/5260-ffe147c613c680c63be605bc2400ad796ac2cdff.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1464-luca11013-gpx/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/d7/5151-d75aed19ff57b1d1dd7a338cee2f56aa77a6b4b4.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1033-jahseh/"
         },
         {
-            "name": "Max Blaubeere",
-            "rank": "Notfallsanitäter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/24/5203-24846a4e98c427f11cb982f97cb5835949790755.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1604-resy-max-blaubeere/"
-        },
-        {
-            "name": "Dr. Marvin Dienstag",
-            "rank": "Notfallsanitäter",
+            "name": "Marvin Dienstag",
+            "rank": "Notarzt",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/7c/5663-7c1e9cc45050602362b33e6ea219814538bd1890.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1577-putzl4pp3n2015/"
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1577-captain-aura/"
+        },
+        {
+            "name": "Felix Shiro Eckert",
+            "rank": "Notfallsanitäter (Ausbildungsabteilung)",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/db/3699-dbf1ca4fc95e2ef071a806036a59d2638e61a921.jpg",
+            "profile": https://www.goldphoenix.de/wcf/index.php?user/896-hpguru/""
         }
     ]
 }
