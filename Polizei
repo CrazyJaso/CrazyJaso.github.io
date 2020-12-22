@@ -65,13 +65,6 @@
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1732-ju-tin/"
        },
        {
-           "name": "Marek Kowlaski 58",
-           "rank": "Polizeirat | Presseabteilung",
-           "highlight": false,
-           "picture": "https://i.imgur.com/CW6vKZM.jpeg",
-           "profile": "https://www.goldphoenix.de/wcf/index.php?user/247-marek-kowalski/"
-       },
-       {
            "name": "Fabian Jauch 82",
            "rank": "Polizeirat | Keine Abteilung",
            "highlight": false,
@@ -91,6 +84,20 @@
            "highlight": false,
            "picture": "https://i.imgur.com/n3OWfmb.jpg",
            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1883-nico-uchiha/"
+       },
+       {
+           "name": "Paul Wolf 40",
+           "rank": "Polizeirat |Keine Abteilung",
+           "highlight": false,
+           "picture": "https://i.imgur.com/kcKiRhT.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1436-affe134/"
+       },
+       {
+           "name": "Louis Suarez 63",
+           "rank": "Polizeirat |Keine Abteilung",
+           "highlight": false,
+           "picture": "https://i.imgur.com/owWHJYn.jpg",
+           "profile": "https://www.goldphoenix.de/wcf/index.php?user/1843-ollum/"
        }
-    ]
-}
+       
+
